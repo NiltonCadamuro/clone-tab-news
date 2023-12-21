@@ -1,7 +1,7 @@
 const Home = () => {
     return (
         <div>
-            <h1>Hello Next.js 2</h1>
+            <h1>Jao aprende a programar FDP!</h1>
         </div>
     )
 }
